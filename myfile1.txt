@@ -1,0 +1,11 @@
+***Here's The Stock Available*** 
+Paracetamol=50 
+Dolo=40 
+Protein=120 
+Amoxylin=24 
+Amcoral=56 
+HBSTER=46 
+Amfolin=36 
+Nutrister Chocolate=10 
+Nutrister Vanilla=15 
+Finelet=44 
